@@ -3,7 +3,7 @@
   "name": "UKHO Tides",
   "config_flow": true,
   "documentation": "https://github.com/ianByrne/HASS_Integration_UKHOTides",
-  "requirements": ["ukhotides==0.1.1"],
+  "requirements": ["ukhotides @ git+https:/github.com/patch0/PyPI-ukhotides.git@main"],
   "dependencies": [],
   "codeowners": ["@ianByrne"],
   "version": "0.1.1"
